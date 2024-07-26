@@ -1,11 +1,11 @@
-alert('Boas vindas ao jogo do número secreto');
-let numeroSecreto = 5;
+alert('Bem vindo mero mortal espero que tenha conhecimento');
+let numeroSecreto = 13;
 console.log('numeroSecreto')
-let chute = prompt('Escolha um número entre 1 e 10');
+let chute = prompt('Qual e o numero que faz o L');
 
 // se chute for igual ao número secreto
 if (chute == numeroSecreto) {
-alert('Isso ai! Você descobriu o número secreto (5)');
+alert('Parabens voce Faz o L com gosto');
 } else {
-alert('Você errou :(')
+alert('voce não Faz o L com gosto :(')
 }
