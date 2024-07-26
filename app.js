@@ -7,5 +7,5 @@ let chute = prompt('Para ter certeza que não e Lula me fale o numero que bolson
 if (chute == numeroSecreto) {
 alert('Bem vindo a quartel guerreio pegue sua arma e mate esquerdistas');
 } else {
-alert('Voce e esquerdista SAIA agora ou MORRA!')
+alert('Voce e esquerdista de merda SAIA agora ou MORRA!')
 }
