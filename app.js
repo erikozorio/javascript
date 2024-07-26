@@ -1,11 +1,11 @@
-alert('Bem vindo mero mortal espero que tenha conhecimento');
-let numeroSecreto = 13;
+alert('Bem vindo meu nobre Bolsonarista');
+let numeroSecreto = 17;
 console.log('numeroSecreto')
-let chute = prompt('Qual e o numero que faz o L');
+let chute = prompt('Para ter certeza que não e Lula me fale o numero que bolsonaro usou');
 
 // se chute for igual ao número secreto
 if (chute == numeroSecreto) {
-alert('Parabens voce Faz o L com gosto');
+alert('Bem vindo a quartel guerreio pegue sua arma e mate esquerdistas');
 } else {
-alert('voce não Faz o L com gosto :(')
+alert('Voce e esquerdista SAIA agora ou MORRA!')
 }
